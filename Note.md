@@ -26,8 +26,8 @@ https://www.postgresql.org/docs/current/queries-with.html</br>
 A recursive CTE is a CTE that references itself. A recursive CTE must contain a **UNION ALL** statement and, to be recursive, have a second query definition that references the CTE itself.</br>
 
 A useful example is this query to find all the direct and indirect sub-parts of a product(tree-travelsal).</br>
-https://learnsql.com/blog/sql-recursive-cte/
-其中的最短路径问题：graph min-distance
+https://learnsql.com/blog/sql-recursive-cte/</br>
+其中的最短路径问题：graph min-distance：</br>
 用edges来写无向图的边，用instr来判定无环图
 ```
 WITH RECURSIVE edges AS (
@@ -51,4 +51,5 @@ WITH RECURSIVE edges AS (
 https://sqlite.org/cli.html#getting_started
 
 
+# class 3 Database storage
 
