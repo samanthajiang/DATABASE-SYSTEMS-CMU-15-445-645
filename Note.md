@@ -93,3 +93,13 @@ Prejoin(denormalize) of tuples with related key at the same place to save I/O ti
 
 # class 4 Database storage II
 ## Data representation in tuple
+<img src="https://github.com/samanthajiang/DATABASE-SYSTEMS-CMU-15-445-645/blob/main/data representation.png" width="620" height="350" /></br>
+<img src="https://github.com/samanthajiang/DATABASE-SYSTEMS-CMU-15-445-645/blob/main/database workloads.png" width="620" height="350" /></br>
+
+# class 5 Buffer pool
+How the DBMS manages its memory and move data back-and-forth from disk.
+
+# class 6 Hash Tables
+
+# class 7 Trees Indexes
+<img src="https://github.com/samanthajiang/DATABASE-SYSTEMS-CMU-15-445-645/blob/main/B+ .png" width="620" height="350" /></br>
