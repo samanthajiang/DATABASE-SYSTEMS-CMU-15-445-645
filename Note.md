@@ -102,4 +102,4 @@ How the DBMS manages its memory and move data back-and-forth from disk.
 # class 6 Hash Tables
 
 # class 7 Trees Indexes
-<img src="https://github.com/samanthajiang/DATABASE-SYSTEMS-CMU-15-445-645/blob/main/B+ .png" width="620" height="350" /></br>
+<img src="https://github.com/samanthajiang/DATABASE-SYSTEMS-CMU-15-445-645/blob/main/B+ tree.png" width="620" height="350" /></br>
